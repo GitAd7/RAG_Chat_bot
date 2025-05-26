@@ -1,5 +1,6 @@
-llama-index
+langchain
 openai
-pypdf
-ipykernel
+tiktoken
+faiss-cpu
+langchain_experimental
 python-dotenv
